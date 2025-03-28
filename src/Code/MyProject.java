@@ -29,7 +29,7 @@ public class MyProject
             break;
             }
          //Write you code here:
-         
+         hummingbird.setLED(1,255)
          }
 
         // Disconnect - if you miss this call the Hummingbird will continue doing stuff for five more seconds
